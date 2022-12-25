@@ -1,18 +1,14 @@
-   [
+[
         {
-            key: "学院名称",
-            content: "管理学院"
+            key: "您的姓名",
+            content: "吴佳庆"
         },
         {
             key: "学号",
-            content: "20201101"
+            content: "121031910050"
         },
         {
-            key: "姓名",
-            content: "张三"
-        },
-        {
-            key: "专业",
-            content: "市场营销"
+            key: "手机号码",
+            content: "18868979636"
         }
     ]
